@@ -22,9 +22,25 @@ console.log(guestCount);
 guestCount = 38;
 console.log(guestCount);
 
-let guest = 2;
-guests =guest + 1;
-const unitPrice = 750;
-const subtotal = guests*unitPrice;
-console.log(guests);
+let siopao = 43;
+siopao = siopao + 14;
+const chokolodebalbakwa = 750;
+const subtotal = siopao*chokolodebalbakwa;
+console.log(siopao);
 console.log(subtotal);
+
+const tour ="Heritage Walk";
+const guest = 3;
+const  available =true;
+console.log("typeof tour");
+console.log("typeof guest");
+console.log("typeof available");
+
+let guideName;
+const selectedTour = null;
+console.log(guideName)
+console.log(selectedTour)
+console.log(typeof guideName)
+
+    
+    
